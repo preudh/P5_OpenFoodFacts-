@@ -1,0 +1,6 @@
+database
+model
+controller
+view
+
+
