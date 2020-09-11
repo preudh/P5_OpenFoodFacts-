@@ -9,7 +9,7 @@
 * healthier substitute for the food product choosed in a specific category.  
   
 
-# Requirements (see testRequiremts.txt for details) :
+# Requirements (see requirements.txt for details) :
 
 * Python 3 : install (https://www.python.org/downloads/release/python-373/)
 * MySQL :  install MySQL for python (https://dev.mysql.com/downloads/connector/python/) or install WampServer which is
