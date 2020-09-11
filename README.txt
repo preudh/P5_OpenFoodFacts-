@@ -9,7 +9,7 @@
 * healthier substitute for the food product choosed in a specific category.  
   
 
-# Requirements :
+# Requirements (see testRequiremts.txt for details) :
 
 * Python 3 : install (https://www.python.org/downloads/release/python-373/)
 * MySQL :  install MySQL for python (https://dev.mysql.com/downloads/connector/python/) or install WampServer which is
@@ -20,7 +20,7 @@
 # Launch :
 
 * start the program 'controller.py'
-* Install packages (pip install -r requirements.txt)
+* Install packages (pip install -r testRequirements.txt)
 
 
 # Design and Development:
@@ -64,7 +64,7 @@
 * Exceptions, conditions are implemented to manage boundaries or user bad manual entries
 
 
-# Author : Preudhomme Patrice - Python developper trainee
+# Author : Preudhomme Patrice - Python developer trainee
 
 
   

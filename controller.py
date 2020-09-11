@@ -279,10 +279,10 @@ class Controller:
 if __name__ == '__main__': # name variable equal to main, check controller file is directly runed or imported
        
     # create instance class controller
-    Control1 = Controller()
+    control1 = Controller()
     
     # instance methods 
-    Control1.process()
+    control1.process()
     
 
    
